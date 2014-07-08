@@ -28,9 +28,27 @@
       "company": "Aplopio",
       "position": "Javascript Frontend Engineer",
       "website": "http://aplopio.com",
-      "startDate": "2014-03-7",
+      "startDate": "2014-03-17",
       "endDate": "",
       "summary": "Working primarily on BackboneJS, developing reusable user interface components and gets involved in UX design.",
+      "highlights": []
+    },
+    {
+      "company": "Navyug Info Solutions",
+      "position": "Software Engineer",
+      "website": "http://navyuginfo.com",
+      "startDate": "2014-03-14",
+      "endDate": "2014-06-04",
+      "summary": "Worked as a full stack Web Developer primarily across the technologies EmberJS, Ruby Rack Server, Ruby Datamapper, Grape API.",
+      "highlights": []
+    },
+    {
+      "company": "Hewlett Packard Global Soft.",
+      "position": "Intern",
+      "website": "http://hp.com",
+      "startDate": "2014-07-12",
+      "endDate": "2014-10-06",
+      "summary": "Developed & Designed a platform independent Desktop Application 'iQ4U'(I Query For You), using Java Swing and SQL, which aids Informatica developers in displaying the dependencies of objects such as Mappings, Sessions, Workflows etc.",
       "highlights": []
     }
   ],
