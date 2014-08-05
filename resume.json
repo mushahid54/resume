@@ -1,27 +1,29 @@
 {
-  "bio": {
-    "firstName": "Mudassir",
-    "lastName": "Ali",
-    "email": {
-      "work": "mudassir@aplopio.com",
-      "personal": "mudassir.dev@gmail.com"
-    },
-    "phone": {
-      "personal": "(91) 9989957644"
-    },
+  "basics": {
+    "name": "Mudassir Ali",
+    "label": "Javascript Frontend Engineer",
+    "picture": "",
+    "email": "mudassir.dev@gmail.com",
+    "phone": "",
+    "website": "http://blog.mudassirali.com",
     "summary": "I like getting involved in improving user experience & building better user interfaces on the web. I do frequently contribute to stackoverflow community & occasionally contribute to open source.",
     "location": {
       "city": "Bangalore",
       "countryCode": "IN",
-      "state": "Karnataka"
+      "region": "Karnataka"
     },
-    "websites": {
-      "blog": "http://blog.mudassirali.com"
-    },
-    "profiles": {
-      "github": "mudassir0909",
-      "twitter": "guesswhat4951"
-    }
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "guesswhat4951",
+        "url": ""
+      },
+      {
+        "network": "Github",
+        "username": "mudassir0909",
+        "url": ""
+      }
+    ]
   },
   "work": [
     {
@@ -39,7 +41,7 @@
       "website": "http://navyuginfo.com",
       "startDate": "2014-03-14",
       "endDate": "2014-06-04",
-      "summary": "Navyug Info Solutions help you convert your business idea into reality.",
+      "summary": "Navyug Info Solutions helps you convert your business idea into reality.",
       "highlights": ["Worked as a full stack Web Developer primarily across the technologies EmberJS, Ruby Rack Server, Ruby Datamapper, Grape API."]
     },
     {
@@ -52,6 +54,7 @@
       "highlights": ["Developed & Designed a platform independent Desktop Application 'iQ4U'(I Query For You), using Java Swing and SQL, which aids Informatica developers in displaying the dependencies of objects such as Mappings, Sessions, Workflows etc."]
     }
   ],
+  "volunteer": [],
   "education": [
     {
       "institution": "Birla Institute of Technology & Sciences, Pilani, Hyderabad",
@@ -102,5 +105,18 @@
       ]
     }
   ],
+  "languages": [
+    {
+      "language": "English"
+    }, {
+	  "language": "Urdu",
+      "fluency": "Native speaker"
+    }, {
+      "language": "Telugu"
+    }, {
+      "language": "Hindi"
+    }
+  ],
+  "interests": [],
   "references": []
 }
