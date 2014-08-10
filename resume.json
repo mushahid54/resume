@@ -27,11 +27,11 @@
   },
   "work": [
     {
-      "company": "Aplopio",
+      "company": "Aplopio - Recruiterbox",
       "position": "Javascript Frontend Engineer",
       "website": "http://aplopio.com",
       "startDate": "2014-03-17",
-      "summary": "Aplopio is a technology company focused on solving problems in hiring.",
+      "summary": "Recruiterbox is the easiest way to receive and manage job applications to your company. It is more efficient than email and simpler than any other recruitment software.",
       "highlights": ["Working primarily on BackboneJS, developing reusable user interface components and gets involved in UX design."]
     },
     {
@@ -56,7 +56,7 @@
   "volunteer": [],
   "education": [
     {
-      "institution": "Birla Institute of Technology & Sciences, Pilani, Hyderabad",
+      "institution": "Birla Institute of Technology & Sciences, Pilani",
       "startDate": "2008-08-08",
       "endDate": "2012-05-05",
       "area": "Electrical & Electronics Engineering",
@@ -76,6 +76,7 @@
         "Javascript",
         "Coffeescript",
         "Ruby",
+        "Python",
         "Java",
         "SQL",
         "C"
@@ -90,16 +91,17 @@
         "BackboneJS",
         "MarionetteJS",
         "RaphaelJS",
-        "JQuery",
-        "MarionetteJS"
+        "JQuery"
       ]
     },
     {
       "name": "Design",
       "level": "Intermediate",
       "keywords": [
-        "UI Design",
-        "UX Design",
+        "Adobe Illustrator",
+        "Adobe After Effects",
+        "User Interface Design",
+        "User Experience Design",
         "Web Design"
       ]
     }
