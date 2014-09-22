@@ -22,6 +22,14 @@
         "network": "Github",
         "username": "mudassir0909",
         "url": ""
+      },
+      {
+          "network": "Skype",
+          "username": "mudassir0909"
+      },
+      {
+          "network": "LinkedIn",
+          "url": "https://www.linkedin.com/in/mudassir0909"
       }
     ]
   },
@@ -38,8 +46,8 @@
       "company": "Navyug Info Solutions",
       "position": "Software Engineer",
       "website": "http://navyuginfo.com",
-      "startDate": "2014-03-14",
-      "endDate": "2014-06-04",
+      "endDate": "2014-03-14",
+      "startDate": "2012-06-04",
       "summary": "Navyug Info Solutions helps you convert your business idea into reality.",
       "highlights": ["Worked as a full stack Web Developer primarily across the technologies EmberJS, Ruby Rack Server, Ruby Datamapper, Grape API."]
     },
@@ -47,8 +55,8 @@
       "company": "Hewlett Packard Global Soft.",
       "position": "Intern",
       "website": "http://hp.com",
-      "startDate": "2014-07-12",
-      "endDate": "2014-10-06",
+      "startDate": "2011-07-07",
+      "endDate": "2011-12-14",
       "summary": "",
       "highlights": ["Developed & Designed a platform independent Desktop Application 'iQ4U'(I Query For You), using Java Swing and SQL, which aids Informatica developers in displaying the dependencies of objects such as Mappings, Sessions, Workflows etc."]
     }
