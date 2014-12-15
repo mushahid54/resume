@@ -1,12 +1,11 @@
 {
   "basics": {
-    "name": "Mudassir Ali",
-    "label": "Javascript Frontend Engineer",
+    "name": "Mushahid Khan",
+    "label": "Software Engineer",
     "picture": "",
-    "email": "mudassir.dev@gmail.com",
+    "email": "mushahidcs0054@gmail.com",
     "phone": "",
-    "website": "http://blog.mudassirali.com",
-    "summary": "I like getting involved in improving user experience & building better user interfaces on the web. I do frequently contribute to stackoverflow community & occasionally contribute to open source.",
+    "summary": "Recently I've become involved in a couple of Django efforts I like getting involved in improving user experience . I do frequently contribute to stackoverflow community & occasionally contribute to open source.",
     "location": {
       "city": "Bangalore",
       "countryCode": "IN",
@@ -15,30 +14,30 @@
     "profiles": [
       {
         "network": "Twitter",
-        "username": "guesswhat4951",
+        "username": "MUSHAHI82414309",
         "url": ""
       },
       {
         "network": "Github",
-        "username": "mudassir0909",
+        "username": "mushahid54",
         "url": ""
       },
       {
           "network": "Skype",
-          "username": "mudassir0909"
+          "username": "mushahid.khan7"
       },
       {
           "network": "LinkedIn",
-          "url": "https://www.linkedin.com/in/mudassir0909"
+          "url": "https://www.linkedin.com/profile/view?id=248654952&trk=nav_responsive_tab_profile"
       }
     ]
   },
   "work": [
     {
-      "company": "Aplopio - Recruiterbox",
-      "position": "Javascript Frontend Engineer",
-      "website": "http://aplopio.com",
-      "startDate": "2014-03-17",
+      "company": "Doublespring Media - Blackmonk",
+      "position": "Software Engineer",
+      "website": "http://doublespring.com",
+      "startDate": "2014-06-04",
       "summary": "Recruiterbox is the easiest way to receive and manage job applications to your company. It is more efficient than email and simpler than any other recruitment software.",
       "highlights": ["Working primarily on BackboneJS, developing reusable user interface components and gets involved in UX design."]
     },
@@ -83,22 +82,23 @@
         "CSS",
         "Javascript",
         "Coffeescript",
-        "Ruby",
         "Python",
         "Java",
         "SQL",
         "C"
+        "Data Structure"
+        "Algorithm"
+        "Asp.Net"
+        "Php"
       ]
     },
     {
       "name": "Frameworks & Libraries",
       "level": "Intermediate",
       "keywords": [
-        "EmberJS",
-        "Ruby on Rails",
-        "BackboneJS",
-        "MarionetteJS",
-        "RaphaelJS",
+        "Django",
+        "Laravel",
+        "Asp.NET",
         "JQuery"
       ]
     },
@@ -108,8 +108,7 @@
       "keywords": [
         "Adobe Illustrator",
         "Adobe After Effects",
-        "User Interface Design",
-        "User Experience Design",
+        "Dreamweaver"
         "Web Design"
       ]
     }
@@ -120,9 +119,7 @@
     }, {
 	  "language": "Urdu",
       "fluency": "Native speaker"
-    }, {
-      "language": "Telugu"
-    }, {
+    },  {
       "language": "Hindi"
     }
   ],
